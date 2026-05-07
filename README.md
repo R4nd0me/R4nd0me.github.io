@@ -1,17 +1,4 @@
 # R4nd0me.github.io
-
-
-Learn to code — free 3,000-hour curriculum
-March 25, 2022
-/
-#boilerplate
-HTML Starter Template – A Basic HTML5 Boilerplate for index.html
-HTML Starter Template – A Basic HTML5 Boilerplate for index.html
-
-By Dillion Megida
-
-HTML has different tags, some of which have semantic meanings. A basic boilerplate for an HTML file looks like this:
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
